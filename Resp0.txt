@@ -1,0 +1,24 @@
+
+
+C:\Users\Karincita\Desktop\L0>
+C:\Users\Karincita\Desktop\L0>doskey /history
+cd desktop/
+git clone https://github.com/IIC2115/Syllabus.git
+git clone https://github.com/KarinGolb/L0.git
+git add NotaL0.txt
+ls
+cd L0
+git add NotaL0.txt
+git commit subí mi nota
+git commit -m "Subí mi nota"
+git push
+git add NotaL0.txt
+git commit -m "Este es comentario"
+git config --global user.email "kgolborne@uc.cl"
+git config --global user.name "KarinGol"
+git commit -m "comenario 123"
+git push
+git pull
+doskey /history
+
+doskey /history
